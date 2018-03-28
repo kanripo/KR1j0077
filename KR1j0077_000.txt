@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 欽定音韻述微
-#+DATE: 2018-03-28 13:09:56.297985
-#+PROPERTY: ID KR1j0077
-#+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 0
-<pb:KR1j0077_WYG_000-1a>¶
